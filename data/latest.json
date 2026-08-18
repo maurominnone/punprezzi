@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T20:37:16.556526+00:00",
+  "generatedAt": "2026-08-18T20:57:16.393574+00:00",
   "source": "Energy-Charts",
   "stale": true,
-  "lastError": "IT-Sicily: HTTP Error 429: Too Many Requests",
+  "lastError": "IT-Centre-South: HTTP Error 429: Too Many Requests; IT-Sardinia: HTTP Error 429: Too Many Requests",
   "zones": {
     "IT-North": {
       "label": "Zona Nord",
@@ -591,7 +591,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-08-18T20:37:17.902574+00:00"
+      "fetchedAt": "2026-08-18T20:57:17.552886+00:00"
     },
     "IT-Centre-North": {
       "label": "Zona Centro-Nord",
@@ -1180,7 +1180,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-08-18T20:37:18.583557+00:00"
+      "fetchedAt": "2026-08-18T20:57:17.983963+00:00"
     },
     "IT-Centre-South": {
       "label": "Zona Centro-Sud",
@@ -2358,7 +2358,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-08-18T20:37:19.962545+00:00"
+      "fetchedAt": "2026-08-18T20:57:18.809251+00:00"
     },
     "IT-Calabria": {
       "label": "Zona Calabria",
@@ -2947,7 +2947,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-08-18T20:37:20.644278+00:00"
+      "fetchedAt": "2026-08-18T20:57:19.236305+00:00"
     },
     "IT-Sicily": {
       "label": "Zona Sicilia",
@@ -3536,7 +3536,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-08-18T16:50:08.909938+00:00"
+      "fetchedAt": "2026-08-18T20:57:19.657227+00:00"
     },
     "IT-Sardinia": {
       "label": "Zona Sardegna",
