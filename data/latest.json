@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T09:22:19.899688+00:00",
+  "generatedAt": "2026-08-26T10:03:17.496481+00:00",
   "source": "Energy-Charts",
   "stale": true,
-  "lastError": "IT-Sardinia: HTTP Error 429: Too Many Requests",
+  "lastError": "IT-North: The read operation timed out; IT-Centre-South: The read operation timed out; IT-South: The read operation timed out; IT-Calabria: The read operation timed out",
   "zones": {
     "IT-North": {
       "label": "Zona Nord",
@@ -796,7 +796,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-08-26T09:22:49.889620+00:00"
+      "fetchedAt": "2026-08-26T10:03:55.925231+00:00"
     },
     "IT-Centre-South": {
       "label": "Zona Centro-Sud",
@@ -2384,7 +2384,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-08-26T09:23:05.681761+00:00"
+      "fetchedAt": "2026-08-26T10:05:05.084503+00:00"
     },
     "IT-Sardinia": {
       "label": "Zona Sardegna",
@@ -2781,7 +2781,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-08-26T08:33:47.266268+00:00"
+      "fetchedAt": "2026-08-26T10:05:13.652310+00:00"
     }
   }
 }
