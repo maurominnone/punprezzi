@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-02T06:45:14.991991+00:00",
+  "generatedAt": "2026-09-02T11:45:12.627248+00:00",
   "source": "Energy-Charts",
   "stale": true,
-  "lastError": "IT-Sicily: HTTP Error 429: Too Many Requests; IT-Sardinia: HTTP Error 429: Too Many Requests",
+  "lastError": "IT-Calabria: HTTP Error 429: Too Many Requests; IT-Sicily: HTTP Error 429: Too Many Requests; IT-Sardinia: HTTP Error 429: Too Many Requests",
   "zones": {
     "IT-North": {
       "label": "Zona Nord",
       "data": {
-        "license_info": "The data provided herein is for private and internal use only. ...",
+        "license_info": "CC BY 4.0 (creativecommons.org/licenses/by/4.0) from Bundesnetzagentur | SMARD.de",
         "unix_seconds": [
           1788213600,
           1788214500,
@@ -399,12 +399,12 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-02T06:45:15.644298+00:00"
+      "fetchedAt": "2026-09-02T11:45:14.713596+00:00"
     },
     "IT-Centre-North": {
       "label": "Zona Centro-Nord",
       "data": {
-        "license_info": "The data provided herein is for private and internal use only. ...",
+        "license_info": "The data provided herein is for private and internal use only. The utilization of any data, whether in its raw or derived form, for external or commercial purposes is expressly prohibited. Should you require licensing for market-related data, please direct your inquiries to the original data providers, including but not limited to EPEX SPOT SE.",
         "unix_seconds": [
           1788213600,
           1788214500,
@@ -796,12 +796,12 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-02T06:45:16.064869+00:00"
+      "fetchedAt": "2026-09-02T11:45:15.211916+00:00"
     },
     "IT-Centre-South": {
       "label": "Zona Centro-Sud",
       "data": {
-        "license_info": "The data provided herein is for private and internal use only. ...",
+        "license_info": "The data provided herein is for private and internal use only. The utilization of any data, whether in its raw or derived form, for external or commercial purposes is expressly prohibited. Should you require licensing for market-related data, please direct your inquiries to the original data providers, including but not limited to EPEX SPOT SE.",
         "unix_seconds": [
           1788213600,
           1788214500,
@@ -1193,12 +1193,12 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-02T06:45:16.485528+00:00"
+      "fetchedAt": "2026-09-02T11:45:15.711451+00:00"
     },
     "IT-South": {
       "label": "Zona Sud",
       "data": {
-        "license_info": "The data provided herein is for private and internal use only. ...",
+        "license_info": "The data provided herein is for private and internal use only. The utilization of any data, whether in its raw or derived form, for external or commercial purposes is expressly prohibited. Should you require licensing for market-related data, please direct your inquiries to the original data providers, including but not limited to EPEX SPOT SE.",
         "unix_seconds": [
           1788213600,
           1788214500,
@@ -1590,7 +1590,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-02T06:45:16.917038+00:00"
+      "fetchedAt": "2026-09-02T11:45:16.238087+00:00"
     },
     "IT-Calabria": {
       "label": "Zona Calabria",
