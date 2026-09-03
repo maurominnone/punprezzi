@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-03T20:56:09.639764+00:00",
+  "generatedAt": "2026-09-03T22:58:51.764594+00:00",
   "source": "Energy-Charts",
   "stale": true,
-  "lastError": "IT-Centre-South: HTTP Error 429: Too Many Requests; IT-South: HTTP Error 429: Too Many Requests; IT-Sicily: HTTP Error 429: Too Many Requests; IT-Sardinia: HTTP Error 429: Too Many Requests",
+  "lastError": "IT-Sardinia: HTTP Error 429: Too Many Requests",
   "zones": {
     "IT-North": {
       "label": "Zona Nord",
@@ -591,7 +591,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-03T20:56:10.720415+00:00"
+      "fetchedAt": "2026-09-03T22:58:52.820672+00:00"
     },
     "IT-Centre-North": {
       "label": "Zona Centro-Nord",
@@ -1180,7 +1180,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-03T20:56:11.146853+00:00"
+      "fetchedAt": "2026-09-03T22:58:53.408080+00:00"
     },
     "IT-Centre-South": {
       "label": "Zona Centro-Sud",
@@ -1769,7 +1769,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-03T18:03:22.915716+00:00"
+      "fetchedAt": "2026-09-03T22:58:53.993280+00:00"
     },
     "IT-South": {
       "label": "Zona Sud",
@@ -2358,7 +2358,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-03T18:03:23.584995+00:00"
+      "fetchedAt": "2026-09-03T22:58:54.579957+00:00"
     },
     "IT-Calabria": {
       "label": "Zona Calabria",
@@ -2947,7 +2947,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-03T20:56:12.385891+00:00"
+      "fetchedAt": "2026-09-03T22:58:55.168470+00:00"
     },
     "IT-Sicily": {
       "label": "Zona Sicilia",
@@ -3536,7 +3536,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-03T18:03:24.877439+00:00"
+      "fetchedAt": "2026-09-03T22:58:55.761673+00:00"
     },
     "IT-Sardinia": {
       "label": "Zona Sardegna",
