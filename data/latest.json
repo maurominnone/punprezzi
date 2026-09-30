@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:52:29.205510+00:00",
+  "generatedAt": "2026-09-30T07:39:00.858345+00:00",
   "source": "Energy-Charts",
   "stale": true,
   "lastError": "IT-Calabria: HTTP Error 429: Too Many Requests; IT-Sicily: HTTP Error 429: Too Many Requests; IT-Sardinia: HTTP Error 429: Too Many Requests",
@@ -399,7 +399,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-30T01:52:30.347194+00:00"
+      "fetchedAt": "2026-09-30T07:39:02.642866+00:00"
     },
     "IT-Centre-North": {
       "label": "Zona Centro-Nord",
@@ -796,7 +796,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-30T01:52:30.988140+00:00"
+      "fetchedAt": "2026-09-30T07:39:03.786899+00:00"
     },
     "IT-Centre-South": {
       "label": "Zona Centro-Sud",
@@ -1193,7 +1193,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-30T01:52:31.667413+00:00"
+      "fetchedAt": "2026-09-30T07:39:04.440146+00:00"
     },
     "IT-South": {
       "label": "Zona Sud",
@@ -1590,7 +1590,7 @@
         "unit": "EUR / MWh",
         "deprecated": false
       },
-      "fetchedAt": "2026-09-30T01:52:32.308617+00:00"
+      "fetchedAt": "2026-09-30T07:39:05.103219+00:00"
     },
     "IT-Calabria": {
       "label": "Zona Calabria",
