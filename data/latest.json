@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-04T05:24:43.408205+00:00",
+  "generatedAt": "2026-10-04T11:12:04.295456+00:00",
   "source": "Energy-Charts",
   "stale": true,
-  "lastError": "IT-Centre-South: HTTP Error 429: Too Many Requests; IT-South: HTTP Error 429: Too Many Requests; IT-Calabria: HTTP Error 429: Too Many Requests; IT-Sicily: HTTP Error 429: Too Many Requests",
+  "lastError": "IT-North: HTTP Error 503: Service Unavailable; IT-Centre-North: HTTP Error 503: Service Unavailable; IT-Centre-South: HTTP Error 503: Service Unavailable; IT-South: HTTP Error 503: Service Unavailable; IT-Calabria: HTTP Error 503: Service Unavailable; IT-Sicily: HTTP Error 503: Service Unavailable; IT-Sardinia: HTTP Error 503: Service Unavailable",
   "zones": {
     "IT-North": {
       "label": "Zona Nord",
