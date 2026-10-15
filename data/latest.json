@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T23:31:15.665076+00:00",
+  "generatedAt": "2026-10-15T01:46:03.133957+00:00",
   "source": "Energy-Charts",
   "stale": true,
-  "lastError": "IT-Calabria: HTTP Error 429: Too Many Requests",
+  "lastError": "IT-North: The read operation timed out; IT-Centre-North: The read operation timed out; IT-Centre-South: The read operation timed out; IT-South: The read operation timed out; IT-Calabria: HTTP Error 429: Too Many Requests; IT-Sicily: HTTP Error 429: Too Many Requests; IT-Sardinia: HTTP Error 429: Too Many Requests",
   "zones": {
     "IT-North": {
       "label": "Zona Nord",
